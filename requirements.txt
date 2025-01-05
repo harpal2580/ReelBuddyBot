@@ -1,0 +1,6 @@
+worker: python main.py
+
+python-telegram-bot
+instaloader
+httpx
+python-dotenv
